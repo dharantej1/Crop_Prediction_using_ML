@@ -1,6 +1,6 @@
 # Crop_Prediction_using_ML
 
-1. Crop Prediction using Machine Learning Model
+1. Crop Prediction using Machine Learning Model.
 2. Agriculture is one of the major revenue producing sectors of India.
 3. Numerous factors influence the crop production such as seasonal, economic and biological patterns.
 4. Due to global warming the climatic conditions are not predictable and lead to a great loss to this sector, especially farmers.
